@@ -1,2 +1,2 @@
-# friendly-parakeet
-Machine Learning
+# Machine Learning
+###machine learing spring 2018
