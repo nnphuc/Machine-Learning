@@ -1,2 +1,3 @@
 # Machine Learning
-###machine learing spring 2018
+
+### machine learing spring 2018
